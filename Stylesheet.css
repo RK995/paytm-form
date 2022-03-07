@@ -1,0 +1,76 @@
+body{
+
+
+    font-family: "Inter",Arial,Helvetica,sans-serif;
+    font-weight: 600;
+
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+
+.container {
+    margin: 0 auto;
+    background: #66D6FF;
+    width: 100%
+}
+.meta{
+    text-align: center;
+
+}
+.customer-img{
+
+    margin: auto;
+  width: 50%;
+
+  padding: 10px;
+    
+}
+
+
+.form .text-area {
+    background: #66D6FF;
+    text-align: center;
+    position: relative;}
+
+
+    .btn--sky {
+        background: #66d6ff;
+        color: #fff;
+        border: none;
+        
+    }
+    .meta2{
+
+        background: #66d6ff;
+border-radius: 15%;
+    }
+    .content{
+
+        background-color: #EDFEFF;
+        text-align: center;
+        position: relative;
+    height: 800px;
+    width: 900px;
+    margin: auto;
+  width: 50%;
+
+  padding: 10px;
+  border-radius: 5%;
+    
+    }
+    input{
+        
+        
+}
+    .meta3{
+background-color: #66D6FF;
+height: 40px;
+width: 60px;
+border: 2px solid red;
+border-radius: 8px;
+
+
+    }
+    
